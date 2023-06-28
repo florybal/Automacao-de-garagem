@@ -1,4 +1,5 @@
 # Automacao-de-garagem
-Projeto final da disciplina de Eletrônica digital
+Projeto final da disciplina de Eletrônica digital, no curso de automação Industrial
+
 
 
